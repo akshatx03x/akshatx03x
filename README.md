@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
 <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
-<img src="https://reactnative.dev/img/header_logo.svg" height="40" alt="reactnative" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
 <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
 <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
@@ -75,4 +75,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatx03x&show_icons=true&locale=en" alt="akshatx03x" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatx03x&" alt="akshatx03x" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatx03x&" alt="akshatx03x" /></p>
