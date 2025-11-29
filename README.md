@@ -3,8 +3,8 @@
 <img 
   align="right" 
   alt="Coding" 
-  width="300" 
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVzc2V1bWoybnBzMXduZjdua2oyb3UwZnJoOWh0NHl0YmF6d3FmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"
+  width="500"
+  src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"
   style="border-radius: 20px;"
 />
 
