@@ -73,6 +73,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatx03x&show_icons=true&locale=en&layout=compact" alt="akshatx03x" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatx03x&show_icons=true&locale=en" alt="akshatx03x" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatx03x&" alt="akshatx03x" /></p>
