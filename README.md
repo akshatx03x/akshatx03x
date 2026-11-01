@@ -8,13 +8,13 @@
   style="border-radius: 20px;"
 />
 
-- 🌱 I’m currently exploring **MERN, Next.js, React Native, Python and ML libraries**
+- 🌱 MERN • Next.js • React Native • DevOps • AI & ML
 
 - 👨‍💻 All of my projects are available at [https://akshat03.vercel.app](https://akshat03.vercel.app/)
 
 - 💬 Feel free to **connect to me.**
 
-- 📫 How to reach me **akshatx03x@gmail.com**
+- 📫 How to reach me **akshatg.gupta03@gmail.com**
 
 - ⚡ Fun fact **I am Cool enough to interact!!!**
 
