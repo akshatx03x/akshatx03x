@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently exploring **MERN, Next.js, React Native, Python and ML libraries**
 
-- 👨‍💻 All of my projects are available at [https://akshat-gupta-gamma.vercel.app/](https://akshat-gupta-gamma.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://akshat03.vercel.app](akshat03.vercel.app)
 
 - 💬 Feel free to **connect to me.**
 
